@@ -1,2 +1,45 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 500px;
+}
+thead{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 500px;
+    background-color: #C0504D;
+    color: #FAEFEF;
+}
+tbody{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 500px;
+}
+tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 500px;
+}
+th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 500px;
+    padding-right: 100px;
+    background-color: #C0504D;
+}
+td{
 
-/* Your CSS Code here. */
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 500px;
+}
+.first{
+    background-color: #DA9694;
+    color: #FAEFEF;
+}
+.second{
+    background-color: #F2DCDB;
+}
+.third{
+    background-color: #D9D9D9;
+}
